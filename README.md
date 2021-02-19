@@ -10,7 +10,7 @@ asks a few questions and should save the responses to be displayed on a subseque
 As a user of the application I want to collect the answers from the participants so that I can assess them independently.
 
 As a participant I need to be able to submit my answers and view the current results of the entire survey on a 
-subsequent page.
+subsequent page, similar to the results page of [strawpoll](https://www.strawpoll.me/).
 
 If you have any ideas to expand upon the brief, please feel free to implement them, but please also make sure you meet
 the brief first.
