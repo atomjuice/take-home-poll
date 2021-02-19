@@ -15,6 +15,7 @@ subsequent page.
 If you have any ideas to expand upon the brief, please feel free to implement them, but please also make sure you meet
 the brief first.
 
+## Additional Notes
 We expect that completing the outstanding work for this project should take roughly 3 hours, this is not a hard limit
 and is just a rough guideline. However the deadline will be a week from when you are provided with the take home 
 assessment to ensure that you are given enough time despite any other potential commitments.
